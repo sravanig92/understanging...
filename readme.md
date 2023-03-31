@@ -1,2 +1,0 @@
-from linux
-ssh configure
